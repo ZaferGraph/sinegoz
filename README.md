@@ -1,2 +1,2 @@
 # sinegoz
- Beynelmilel Sinema Topluluğu
+ Beynelmilel Sinema Kulübü
