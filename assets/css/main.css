@@ -998,7 +998,7 @@
 				line-height: 1;
 			}
 
-			#footer .copyleft li {
+			#footer .copyleft {
 				display:inline-block;
 				transform: rotate(180deg);
 			}
