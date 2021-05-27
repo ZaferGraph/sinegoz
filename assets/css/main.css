@@ -1002,11 +1002,6 @@
 					border-left: 0;
 				}
 
-			#footer .copyright li .copyleft {
-				display:inline-block;
-				transform: rotate(180deg);
-			}
-
 /* Wrapper */
 
 	#wrapper {
