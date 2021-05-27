@@ -1002,7 +1002,7 @@
 					border-left: 0;
 				}
 
-			.copyleft {
+			#footer .copyright li .copyleft {
 				display:inline-block;
 				transform: rotate(180deg);
 			}
