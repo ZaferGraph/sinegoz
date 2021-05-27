@@ -998,14 +998,14 @@
 				line-height: 1;
 			}
 
-			#footer .copyleft {
-				display:inline-block;
-				transform: rotate(180deg);
-			}
-
 				#footer .copyright li:first-child {
 					border-left: 0;
 				}
+
+			.copyleft {
+				display:inline-block;
+				transform: rotate(180deg);
+			}
 
 /* Wrapper */
 
